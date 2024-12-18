@@ -1,5 +1,5 @@
 <h1 align="center">
-     :books: Bangladeshi Students
+     :books: Bangladesh Students
       <br />
       <hr />
      📈 Neural Networks using R
